@@ -43,3 +43,9 @@ viewport: parte visible del documento
 responsive:
 - flexible: se hace con float o tablas o flexbox o grid
 - breackpoint: mediaquery (mide ancho y alto de vw)
+
+DOM
+document object model.
+Manipular el html desde js a traves de eventos.
+insertAdjacentElement: insertar html.
+innerHTML: tomar un html.
