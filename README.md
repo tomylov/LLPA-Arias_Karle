@@ -49,3 +49,9 @@ document object model.
 Manipular el html desde js a traves de eventos.
 insertAdjacentElement: insertar html.
 innerHTML: tomar un html.
+
+1) Lograr que la secuencia recuerde los valores que elige(array secuencia).
+2) La secuencia repite estados e incrementa en un nuevo estado aleatorio. setintervar()
+3) La secuencia es incremental y se incrementa con el click(idea anterior pero se dispara con un click)
+4) boton play y reset
+5) Imprimir los numeros del 1 al 10 cada 1 segundo.
